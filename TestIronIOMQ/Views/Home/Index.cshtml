@@ -1,0 +1,31 @@
+﻿@{
+    ViewBag.Title = "Iron IO MQ Test";
+}
+<h2>
+    <a href="@Url.Action("Publish", "Iron")">Publish a Message</a></h2>
+<h2>
+    <a href="@Url.Action("Get", "Iron")">Get a Message</a></h2>
+<h2>
+    <a href="@Url.Action("Delete", "Iron")">Delete a Message</a></h2>
+<h2>
+    <a href="@Url.Action("GetMessages", "Iron")">Get 100 Messages</a></h2>
+<h3>
+    Results:</h3>
+<div id="result">
+</div>
+<script type="text/javascript">
+    $(document).ready(function () {
+
+        $('a').click(function () {
+            var url = $(this).attr("href");
+
+            $.get(url, function (data) {
+                $('#result').append(data);
+                $('#result').append("<br /><br />");
+            });
+            return false;
+        });
+
+    });
+		
+</script>

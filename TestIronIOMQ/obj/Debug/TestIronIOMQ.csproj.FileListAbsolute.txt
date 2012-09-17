@@ -1,0 +1,7 @@
+C:\Users\Monica\Documents\Visual Studio 2010\Projects\TestIronIOMQ\TestIronIOMQ\bin\TestIronIOMQ.dll
+C:\Users\Monica\Documents\Visual Studio 2010\Projects\TestIronIOMQ\TestIronIOMQ\bin\TestIronIOMQ.pdb
+C:\Users\Monica\Documents\Visual Studio 2010\Projects\TestIronIOMQ\TestIronIOMQ\bin\EntityFramework.dll
+C:\Users\Monica\Documents\Visual Studio 2010\Projects\TestIronIOMQ\TestIronIOMQ\bin\EntityFramework.xml
+C:\Users\Monica\Documents\Visual Studio 2010\Projects\TestIronIOMQ\TestIronIOMQ\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Monica\Documents\Visual Studio 2010\Projects\TestIronIOMQ\TestIronIOMQ\obj\Debug\TestIronIOMQ.dll
+C:\Users\Monica\Documents\Visual Studio 2010\Projects\TestIronIOMQ\TestIronIOMQ\obj\Debug\TestIronIOMQ.pdb
